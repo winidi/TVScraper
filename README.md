@@ -9,7 +9,9 @@ Get real-time indicator data from TradingView
 It's enough for me for right now to play with. Probably will add switching to other tradingpairs, multiple charts etc. as time goes by.
 
 ## Get Started
+
 Edit email and pw variables or create an .env file.
+
 ---
 git clone https://github.com/winidi/TVScraper
 cd TVScraper/TradingViewScraper/
