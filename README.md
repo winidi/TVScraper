@@ -12,9 +12,11 @@ It's enough for me for right now to play with. Probably will add switching to ot
 
 Edit email and pw variables or create an .env file.
 
---
+---
+
 git clone https://github.com/winidi/TVScraper
 cd TVScraper/TradingViewScraper/
 npm install
 node index.js
---
+
+---
