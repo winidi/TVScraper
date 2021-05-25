@@ -2,7 +2,7 @@
 Get real-time indicator data from TradingView
 
 - Only login via Email supported
-- Shows the last watched trading pair and timeframe from last seesion
+- Shows the last watched trading pair and timeframe from last session
 - Prints a csv string to TradingViewScraper/IndicatorData/indicatorData.txt with all indicator values. (You need to detect them by hand)
 - Note that TV has a slight delay may depend on your subscription plan
 
